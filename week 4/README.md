@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -53,4 +52,3 @@ Here are some bear species:
         
     
    
-en.wikipedia.org
